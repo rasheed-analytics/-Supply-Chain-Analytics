@@ -1,5 +1,5 @@
 ### Page 1: Supply Chain Executive Overview
-![Executive Overview] (Dashboard_Screenshots/01_Excecutive_Overview)
+![Executive Overview] (Dashboard_Screenshots/01_Excecutive_Overview.png)
 ### Page 2: Supplier Performance & Risk Analysis
 ![Supplier Performance] (Dashboard_Screenshots/02_Supplier_Performance)
 ### Page 3: Inventory & Availability Analysis
